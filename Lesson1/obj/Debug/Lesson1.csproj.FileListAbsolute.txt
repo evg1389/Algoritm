@@ -1,0 +1,7 @@
+D:\OneDrive\учеба\Algoritm\Lesson1\Lesson1\bin\Debug\Lesson1.exe.config
+D:\OneDrive\учеба\Algoritm\Lesson1\Lesson1\bin\Debug\Lesson1.exe
+D:\OneDrive\учеба\Algoritm\Lesson1\Lesson1\bin\Debug\Lesson1.pdb
+D:\OneDrive\учеба\Algoritm\Lesson1\Lesson1\obj\Debug\Lesson1.csprojAssemblyReference.cache
+D:\OneDrive\учеба\Algoritm\Lesson1\Lesson1\obj\Debug\Lesson1.csproj.CoreCompileInputs.cache
+D:\OneDrive\учеба\Algoritm\Lesson1\Lesson1\obj\Debug\Lesson1.exe
+D:\OneDrive\учеба\Algoritm\Lesson1\Lesson1\obj\Debug\Lesson1.pdb
